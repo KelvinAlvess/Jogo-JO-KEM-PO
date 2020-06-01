@@ -1,2 +1,2 @@
 # Reposit-rio-em-python
-Jogo JO KEM  PO!
+Jogo JO KEM PO
